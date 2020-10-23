@@ -5,6 +5,7 @@
     "keywords": ["yii2", "extension", "sendgrid", "ramprasadm1986"],
     "license": "Apache-2.0",
     "version": "1.0.0",
+    "minimum-stability":"stable",
     "authors": [
         {
             "name": "Ramprasad Moharana",
